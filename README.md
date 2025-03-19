@@ -1,6 +1,3 @@
-Aqui está a descrição detalhada do que cada parte do código faz:  
-
----
 
 ### 📌 **Descrição do Código**
 Este script automatiza o envio de mensagens pelo **WhatsApp Web** usando **Python, Selenium e Pandas**. Ele lê uma lista de contatos e mensagens de um arquivo Excel e envia mensagens personalizadas para cada contato pelo **WhatsApp Web**.
